@@ -1,0 +1,10 @@
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\TestingStudentLibrary\bin\Debug\TestingStudentLibrary.exe.config
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\TestingStudentLibrary\bin\Debug\TestingStudentLibrary.exe
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\TestingStudentLibrary\bin\Debug\TestingStudentLibrary.pdb
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\TestingStudentLibrary\bin\Debug\StudenLibray1.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\TestingStudentLibrary\bin\Debug\StudenLibray1.pdb
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\TestingStudentLibrary\obj\Debug\TestingStudentLibrary.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\TestingStudentLibrary\obj\Debug\TestingStudentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\TestingStudentLibrary\obj\Debug\TestingStudentLibrary.csproj.CopyComplete
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\TestingStudentLibrary\obj\Debug\TestingStudentLibrary.exe
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\TestingStudentLibrary\obj\Debug\TestingStudentLibrary.pdb

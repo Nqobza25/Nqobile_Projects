@@ -1,0 +1,8 @@
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\SUMA\SUMA\obj\Debug\SUMA.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\SUMA\SUMA\obj\Debug\SUMA.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\SUMA\SUMA\obj\Debug\SUMA.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\SUMA\SUMA\bin\Debug\SUMA.exe.config
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\SUMA\SUMA\bin\Debug\SUMA.exe
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\SUMA\SUMA\bin\Debug\SUMA.pdb
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\SUMA\SUMA\obj\Debug\SUMA.exe
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\SUMA\SUMA\obj\Debug\SUMA.pdb
