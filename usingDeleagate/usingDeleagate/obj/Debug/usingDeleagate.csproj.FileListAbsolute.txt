@@ -1,0 +1,8 @@
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\usingDeleagate\usingDeleagate\bin\Debug\usingDeleagate.exe.config
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\usingDeleagate\usingDeleagate\bin\Debug\usingDeleagate.exe
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\usingDeleagate\usingDeleagate\bin\Debug\usingDeleagate.pdb
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\usingDeleagate\usingDeleagate\obj\Debug\usingDeleagate.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\usingDeleagate\usingDeleagate\obj\Debug\usingDeleagate.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\usingDeleagate\usingDeleagate\obj\Debug\usingDeleagate.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\usingDeleagate\usingDeleagate\obj\Debug\usingDeleagate.exe
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\usingDeleagate\usingDeleagate\obj\Debug\usingDeleagate.pdb
