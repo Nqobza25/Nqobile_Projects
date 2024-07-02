@@ -1,0 +1,8 @@
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\ClassActivity\ClassActivity\bin\Debug\ClassActivity.exe.config
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\ClassActivity\ClassActivity\bin\Debug\ClassActivity.exe
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\ClassActivity\ClassActivity\bin\Debug\ClassActivity.pdb
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\ClassActivity\ClassActivity\obj\Debug\ClassActivity.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\ClassActivity\ClassActivity\obj\Debug\ClassActivity.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\ClassActivity\ClassActivity\obj\Debug\ClassActivity.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\ClassActivity\ClassActivity\obj\Debug\ClassActivity.exe
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\ClassActivity\ClassActivity\obj\Debug\ClassActivity.pdb
