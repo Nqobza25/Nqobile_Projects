@@ -1,0 +1,53 @@
+﻿<Window x:Class="poe3.USER_INGREDIENT_WINDOWS.DisplayRecipe"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:poe3.USER_INGREDIENT_WINDOWS"
+        mc:Ignorable="d"
+        Title="DisplayRecipe" Height="510" Width="800">
+    <Grid Background="#FF9DDA8C" Height="NaN" Margin="0,0,0,-169">
+        <Image x:Name="image_Copy" HorizontalAlignment="Left" Margin="-1,178,0,0" Width="278" Source="/USER INGREDIENT WINDOWS/35-Pineapple-Wallpaper-for-iPhone-_Free-Downloads_-Welcome-To-The-One-Percent.jpeg" RenderTransformOrigin="0.539,0.421" Height="491" VerticalAlignment="Top">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="-1.107"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="-2.509"/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+
+        <Image x:Name="image" HorizontalAlignment="Left" Margin="527,11,0,0" Width="278" Source="/USER INGREDIENT WINDOWS/35-Pineapple-Wallpaper-for-iPhone-_Free-Downloads_-Welcome-To-The-One-Percent.jpeg" RenderTransformOrigin="0.539,0.421" Height="491" VerticalAlignment="Top">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="-1.107"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="-2.509"/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+
+        <Label x:Name="label" Content="Name of Recipe" HorizontalAlignment="Left" Margin="41,32,0,0" VerticalAlignment="Top" Background="#FFFBFAFA" FontFamily="Bowlby One SC"/>
+        <Label x:Name="label_Copy" Content="Ingredient:" HorizontalAlignment="Left" Margin="41,103,0,0" VerticalAlignment="Top" Background="#FFFBFAFA" FontFamily="Bowlby One SC"/>
+        <Label x:Name="label_Copy1" Content="Name of Recipe" HorizontalAlignment="Left" Margin="41,171,0,0" VerticalAlignment="Top" Background="#FFFBFAFA" FontFamily="Bowlby One SC"/>
+        <Label x:Name="label_Copy2" Content="Quantity:" HorizontalAlignment="Left" Margin="41,241,0,0" VerticalAlignment="Top" Background="#FFFBFAFA" FontFamily="Bowlby One SC"/>
+        <Label x:Name="label_Copy3" Content="Unit Measurement:" HorizontalAlignment="Left" Margin="41,307,0,0" VerticalAlignment="Top" Background="#FFFBFAFA" FontFamily="Bowlby One SC"/>
+        <Label x:Name="label_Copy4" Content="Ingredient Food Calorie:" HorizontalAlignment="Left" Margin="41,398,0,0" VerticalAlignment="Top" Background="#FFFBFAFA" FontFamily="Bowlby One SC"/>
+        <Label x:Name="label1" Content="Ingredient Food Group:" HorizontalAlignment="Left" Margin="41,462,0,0" VerticalAlignment="Top" Background="#FFFBFAFA" FontFamily="Bowlby One SC"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Margin="263,32,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Margin="263,116,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox2" HorizontalAlignment="Left" Margin="263,179,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox3" HorizontalAlignment="Left" Margin="263,250,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox4" HorizontalAlignment="Left" Margin="263,320,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox5" HorizontalAlignment="Left" Margin="263,406,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox6" HorizontalAlignment="Left" Margin="263,481,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label2" Content="RECIPE DESCRIPTION" HorizontalAlignment="Left" Margin="47,565,0,0" VerticalAlignment="Top" Background="#FFF8EAEA" FontFamily="Bowlby One SC"/>
+        <TextBox x:Name="textBox7" HorizontalAlignment="Left" Margin="263,573,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="191" Height="57"/>
+        <Button x:Name="button" Content="NEXT" HorizontalAlignment="Left" Margin="554,72,0,0" VerticalAlignment="Top" Height="44" Width="88" FontFamily="Bowlby One SC"/>
+        <Button x:Name="button1" Content="HOME PAGE" HorizontalAlignment="Left" Margin="550,184,0,0" VerticalAlignment="Top" Height="49" Width="92" FontFamily="Bowlby One SC"/>
+        <Button x:Name="button2" Content="EXIT" HorizontalAlignment="Left" Margin="558,273,0,0" VerticalAlignment="Top" Height="47" Width="80" FontFamily="Bowlby One SC"/>
+
+    </Grid>
+</Window>

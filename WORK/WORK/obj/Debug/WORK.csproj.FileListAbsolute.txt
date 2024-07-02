@@ -1,0 +1,20 @@
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\WORK\WORK\obj\Debug\WORK.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\WORK\WORK\obj\Debug\WORK.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\WORK\WORK\obj\Debug\MainWindow.g.cs
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\WORK\WORK\obj\Debug\App.g.cs
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\WORK\WORK\obj\Debug\WORK_MarkupCompile.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\WORK\WORK\obj\Debug\WORK_MarkupCompile.lref
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\WORK\WORK\bin\Debug\WORK.exe.config
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\WORK\WORK\bin\Debug\WORK.exe
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\WORK\WORK\bin\Debug\WORK.pdb
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\WORK\WORK\obj\Debug\MainWindow.baml
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\WORK\WORK\obj\Debug\WORK.g.resources
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\WORK\WORK\obj\Debug\WORK.Properties.Resources.resources
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\WORK\WORK\obj\Debug\WORK.csproj.GenerateResource.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\WORK\WORK\obj\Debug\WORK.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\WORK\WORK\obj\Debug\WORK.exe
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\WORK\WORK\obj\Debug\WORK.pdb
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\WORK\WORK\obj\Debug\USER INTERFACE\ChooseRecipe.g.cs
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\WORK\WORK\obj\Debug\USER INTERFACE\DisplayRecipe.g.cs
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\WORK\WORK\obj\Debug\USER INTERFACE\ChooseRecipe.baml
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\prog 6212\WORK\WORK\obj\Debug\USER INTERFACE\DisplayRecipe.baml
